@@ -8,13 +8,13 @@ using namespace std;
 
 cin>>weight;
 
-if(weight%2==0 & weight>2)  //odd
+if(weight%2==0 & weight>2)  
 {
     cout<<"YES"<<endl;
 
 }
 
-else //even
+else 
 {
     cout<<"NO"<<endl;
 
